@@ -1,63 +1,45 @@
 .project-header {
   font-family: fairview;
   text-align: center;
-
 }
 .desc-head {
   font-family: fairview;
-
   font-size: 25px;
 }
 .tech-head {
   font-family: fairview;
-
   font-size: 25px;
 }
-
 /*mockup imgs*/
 #letsBrick {
-  width: 100%;
-  border: 5px solid black;
+  width: 75%;
+
 }
 #homeventory {
   width: 250px;
 }
-
 /*additional panel styles*/
 .panel {
   color:black;
-
   padding-left: 5px;
   padding-right: 5px;
   font-family: maven;
 }
 .panel-body {
   margin-top: 50px;
-    text-align:center;
+  text-align:center;
 }
-
 .tech {
-  /*margin-left: auto;
-  margin-right: auto;*/
   display: flex;
   justify-content: space-between;
   align-content: center;
 }
-.tech > a {
-  display: inline-block;
-    text-align: center;
-    margin: 0 auto;
-    margin-right: auto;
-}
-
 .tech-img {
   width: 100px;
 }
-
-
-
-
-/*placholders*/
-#monitor {
-  width: 300px;
+.desc {
+  text-align: left;
+}
+.projects {
+  text-align: center;
 }
